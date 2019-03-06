@@ -1,0 +1,16 @@
+#!/bin/bash
+source cabecalho
+echo -e "${cor[1]} =================================== ${cor[0]}"
+echo -e "${cor[2]} ∆ ${cor[5]} ${txt[14]}"
+echo -e "${cor[1]} =================================== ${cor[0]}"
+echo -e "${cor[2]}[${cor[1]}00${cor[2]}] ${cor[5]} ${txt[13]}"
+echo -e "${cor[2]}[${cor[1]}01${cor[2]}] ${cor[3]} ${txt[15]}"
+echo -e "${cor[2]}[${cor[1]}02${cor[2]}] ${cor[3]} ${txt[16]}"
+echo -e "${cor[2]}[${cor[1]}03${cor[2]}] ${cor[3]} ${txt[17]}"
+echo -e "${cor[2]}[${cor[1]}04${cor[2]}] ${cor[3]} ${txt[18]}"
+echo -e "${cor[2]}[${cor[1]}05${cor[2]}] ${cor[3]} ${txt[19]}"
+echo -e "${cor[2]}[${cor[1]}06${cor[2]}] ${cor[3]} ${txt[87]}"
+echo -e "${cor[2]}[${cor[1]}07${cor[2]}] ${cor[3]} ${txt[234]}"
+echo -e "${cor[2]}[${cor[1]}08${cor[2]}] ${cor[3]} ${txt[288]}"
+echo -e "${cor[2]}[${cor[1]}09${cor[2]}] ${cor[3]} ${txt[254]} $limiter_on"
+echo -e "${cor[1]} ===================================  ${cor[0]}"
